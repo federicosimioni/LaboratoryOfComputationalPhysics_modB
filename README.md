@@ -1,2 +1,2 @@
 # Laboratory of Computational Physics (Module B)
-Project assigned
+Exercises and assignment done during the course
