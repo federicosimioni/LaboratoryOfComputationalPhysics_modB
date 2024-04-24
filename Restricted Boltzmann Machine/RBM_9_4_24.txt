@@ -1,0 +1,8 @@
+Z=SUM_vSUM_h e^-E(x)
+2^(L+M)=2^L*2^M
+x=vUh
+Q=L+M
+<E>_data 
+SUM_n SUM_h e^-E(x_n)/(N*2^M)
+x_n=v_n U_n h_n
+

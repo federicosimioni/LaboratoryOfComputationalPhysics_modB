@@ -1,0 +1,8 @@
+Dkl(p||p_theta)=SUM_x(or integral)(p(x) ln(p(x)/p_theta(x)))=Sum_x(p(x)ln(p(x))) [this part is constant] -Sum_x(p(x)ln(p_theta(x))) [this part is the logLikelihood
+
+p(x)=1/N Sum_n(delta(x-x_n)) distribution of data
+p_theta(x) model
+
+L=<ln(p_theta(x))>_data
+
+REMEMBER: the normalization is essential for this procedure.
